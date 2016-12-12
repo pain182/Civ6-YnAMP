@@ -17,8 +17,8 @@ include "AssignStartingPlots"
 local mapName = MapConfiguration.GetValue("MapName")
 print("Loading "..tostring(mapName).." script")
 
-local g_iW = 108
-local g_iH = 98
+local g_iW = 88
+local g_iH = 78
 local g_iFlags = {}
 local g_continentsFrac = nil
 
